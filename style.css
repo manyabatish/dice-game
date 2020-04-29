@@ -1,0 +1,72 @@
+.page 
+{
+    margin: 5% 12%;
+    background-color: #00AEAE;
+    color: black;
+
+}
+h1
+{
+ font-size: 500%;
+ text-align: center;
+ padding-bottom: 5rem;
+ padding-top: 4rem;
+ color:#900020;
+}
+
+.p1
+{
+    padding-left: 13rem;
+    text-align: center;
+    padding-bottom: 2.5rem;
+}
+.dice1-img
+{
+ width: 48%;
+}
+h2 
+{
+    padding-bottom: 3rem;
+}
+.p2
+{
+    padding-right: 8rem;
+    text-align: center;
+    padding-bottom: 2.5rem;
+}
+.dice2-img 
+{
+    width: 40%;
+}
+.click-button
+{
+    padding: 2.5rem 0 5rem 33.5rem;
+    font-family: monherrat, sans-serif; 
+
+}
+.fa-cocktail , .fa-surprise
+{
+    color: whitesmoke;
+}
+@media (max-width : 1028px)
+{
+    h1 
+    {
+        font-size: 300%;
+        font-weight: bold;
+    }
+    .p1 
+    {
+       padding: 3rem 3rem;
+
+    }
+    .p2
+    {
+        padding: 2rem 2rem;
+    }
+    .click-button
+    {
+        padding: 3rem 1rem 4rem 4rem;
+        margin-left: 4rem;
+    }
+}
